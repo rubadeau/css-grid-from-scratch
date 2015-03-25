@@ -7,6 +7,18 @@
 1. Floats & Clearfixes
 1. The CSS box model
 
+### Objective
+
+1. Decide between using a symmetrical and asymmetrical grid system.
+1. In the index.html file, explain how you and your pair came to this
+   conclusion. What are the advantages of one over the other?
+1. There are starter styles in the app.css file. Expand on that to
+   implement the system of your choice.
+1. Pretend like this is a library / framework that you will share on
+   github. Write HTML that demonstrates how your classes work, all the
+way up to 12 columns. (See the example images below).
+
+
 Preview:
 ![img/example.png](img/example.png)
 
