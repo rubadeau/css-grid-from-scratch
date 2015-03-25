@@ -1,9 +1,11 @@
 # Grids
 
-You should know:
+### You should know:
+
 1. Selector chaining
 1. selector grouping
 1. Floats & Clearfixes
+1. The CSS box model
 
 Preview:
 ![img/example.png](img/example.png)
