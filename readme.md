@@ -23,6 +23,8 @@
    github. Write HTML that demonstrates how your classes work, all the
 way up to 12 columns. (See the example images below).
 
+Tristan's Work:
+![img/grid.png](img/grid.png)
 
 Preview:
 ![img/example.png](img/example.png)
