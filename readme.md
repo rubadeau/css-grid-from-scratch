@@ -1,8 +1,9 @@
-# files are in custom.css and grid.html
-
-
 
 # Grids
+
+### My work is in custom.css and grid.html
+
+
 
 ### You should know:
 
