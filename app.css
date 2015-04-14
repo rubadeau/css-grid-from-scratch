@@ -18,7 +18,7 @@ body {
 div {
   color: #7BBADE;
   background: #222;
-  border-left: 1px solid white;
+  border: 1px solid white;
   padding: 5px;
 }
 
